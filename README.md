@@ -31,7 +31,9 @@ More information can be found at [http://qwtplot3d.sourceforge.net/](http://qwtp
 ```Bash
 git clone https://github.com/zohannn/qwtplot3d.git
 cd qwtplot3d/Debug
+mkdir tmp
 make
 cd ../Release
+mkdir tmp
 make
 ```
